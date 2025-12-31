@@ -1,0 +1,10 @@
+{
+  "dependencies": [
+    "."
+  ],
+  "graphs": {
+    "research_simple": "./docs_create_agent.py:agent"
+  },
+  "env": ".env",
+  "python_version": "3.13"
+}
